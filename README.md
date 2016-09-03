@@ -1,10 +1,9 @@
-Hermes Interplanetary Spacecraft for KSP
+---------------------------------
+Hermes Interplanetary Spacecraft
+---------------------------------
+A replica of the Hermes from "The Martian"
 
 This Mod is intended to reproduce the Hermes Interplanetary Space from the Movie "The Martian"
-
-REQUIRED MODS:
-- Magic Smoke Industries Infernal Robotics
-- KIS
 
 Original Authors:
 xxhansonnmaxx: Models/Textures
