@@ -3,11 +3,22 @@ Hermes Interplanetary Spacecraft
 ---------------------------------
 A replica of the Hermes from "The Martian"
 
-This Mod is intended to reproduce the Hermes Interplanetary Space from the Movie "The Martian"
+CHANGELOG:
 
-Original Authors:
-xxhansonnmaxx: Models/Textures
-OrbitalEscape: Unity/Configs 
+---------------------------------
+v0.1 03-SEP-2016
+---------------------------------
+Initial Re-Release
+This will break any existing saves
+- Added MAV to Pack
+- Added Example .craft file for MAV
+- Added Example .craft file for Hermes
+- Reorganize Folder Structure
 
+
+Created By:
+xxhansonnmaxx: Owner/Models/Textures
+OrbitalEscape: Co-Owner/Unity/Configs
+Jasseji: Takeover and Repack
 
 LICENSE: CC BY-NC 4.0
