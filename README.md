@@ -11,8 +11,6 @@ v0.1 03-SEP-2016
 Initial Re-Release
 This could break any existing saves
 - Added MAV to Pack
-- Added Example .craft file for MAV
-- Added Example .craft file for Hermes
 
 Created By:
 xxhansonnmaxx: Owner/Models/Textures
