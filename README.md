@@ -13,8 +13,6 @@ This will break any existing saves
 - Added MAV to Pack
 - Added Example .craft file for MAV
 - Added Example .craft file for Hermes
-- Reorganize Folder Structure
-
 
 Created By:
 xxhansonnmaxx: Owner/Models/Textures
